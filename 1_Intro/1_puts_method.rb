@@ -13,4 +13,13 @@ puts 2,3,4  # imprime cada valor em uma linha separada
 
 puts "Ronaldo", "Flavielle", "Gabi", "Manu"
 
+puts
 
+age = 31
+puts age
+p age
+s = "hi"
+p s
+
+puts 3.inspect
+puts '3'.inspect
